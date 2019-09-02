@@ -55,39 +55,12 @@ body {
 }
 
 /* <======== products area =======> */
-.c-main-products--container {
-  height: 68vh;
-  padding: 5px 30px;
-  padding-right: 0;
-  font-weight: bold;
-  background-color: #999;
+.c-main-products {
+  background-color: #eeeeee;
 }
 
-.c-main-products--container h2 {
-  text-align: center;
-  margin: 20px;
+.c-main-products h2,
+.c-recipe h2 {
   color: #ee4326;
   font-weight: bold;
-}
-
-.c-main-products-container__products {
-  height: 15vh;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-}
-
-.c-main-products-container__products-item {
-  margin-right: 30px;
-  display: flex;
-  flex-direction: column;
-  flex: 1;
-}
-
-.c-main-products-container__products-item img {
-  width: 100%;
-}
-
-.c-main-products-container__products-item footer {
-  text-align: center;
-  padding: 20px;
 }
