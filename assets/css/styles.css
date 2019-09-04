@@ -55,11 +55,11 @@ body {
 }
 
 /* <======== products area =======> */
-.c-main-products {
+.c-main-bg {
   background-color: #eeeeee;
 }
 
-.c-main-products h2,
+.c-main-bg h2,
 .c-recipe h2 {
   color: #ee4326;
   font-weight: bold;
