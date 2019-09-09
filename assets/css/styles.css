@@ -60,7 +60,14 @@ body {
 }
 
 .c-main-bg h2,
-.c-recipe h2 {
+.c-recipe h2,
+.c-contact h1,
+.c-contact h2 {
   color: #ee4326;
   font-weight: bold;
+}
+
+/* <======== contact area =======> */
+.c-map {
+  height: 90vh;
 }
