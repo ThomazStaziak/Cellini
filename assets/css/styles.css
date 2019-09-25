@@ -59,15 +59,53 @@ body {
   background-color: #eeeeee;
 }
 
+.c-secondary-bg {
+  background-color: #999999;
+}
+
 .c-main-bg h2,
-.c-recipe h2,
+.c-recipe-container h2,
 .c-contact h1,
 .c-contact h2 {
   color: #ee4326;
   font-weight: bold;
 }
 
+/* <======== recipe area =======> */
+.c-recipe {
+  border: 1px #ccc solid;
+  padding: 5%;
+}
+
+.c-recipe a {
+  color: #000;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
 /* <======== contact area =======> */
 .c-map {
   height: 90vh;
 }
+
+/* <======== social area =======> */
+.c-social-icons p {
+  font-size: 20px;
+}
+
+.c-social-icons span {
+  background-color: #ee4326;
+  color: #fff;
+  width: 35px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50%;
+  font-size: 20px;
+}
+
+/* <======== about area =======> */
+.c-about-items {
+  list-style: none;
+}
+
+/* <======== footer area =======> */
