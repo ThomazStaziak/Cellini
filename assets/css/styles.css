@@ -66,7 +66,8 @@ body {
 .c-main-bg h2,
 .c-recipe-container h2,
 .c-contact h1,
-.c-contact h2 {
+.c-contact h2,
+.c-product-container h2 {
   color: #ee4326;
   font-weight: bold;
 }
@@ -104,8 +105,29 @@ body {
 }
 
 /* <======== about area =======> */
+.c-about-container h3 {
+  font-size: 20px;
+}
+
 .c-about-items {
   list-style: none;
 }
 
 /* <======== footer area =======> */
+
+/* <======== product area =======> */
+.c-product span {
+  font-weight: 300;
+  font-size: 40px;
+  color: #999;
+  cursor: pointer;
+}
+
+.c-main-product,
+.c-short-product {
+  border: 1px solid #999999;
+}
+
+.c-product-description ul li {
+  list-style-type: none;
+}
