@@ -1,3 +1,15 @@
+<?php
+  try {
+      require 'conexao.php';
+      $consulta = $conexao->query("SELECT * FROM receitas");
+      $receitas = $consulta->fetchAll(PDO::FETCH_ASSOC);
+      $receitas = array_reverse($receitas);
+      $conexao = null;
+  } catch (PDOException $erro) {
+      echo $erro->getMessage();
+  }
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
@@ -204,51 +216,22 @@
         <h2 class="text-center mb-4">Receitas</h2>
         <div class="container">
           <div class="row">
-            <div class="col-md-4 col-sm-12">
-              <img
-                src="https://www.selecoes.com.br/wp-content/uploads/2018/06/o-que-comer-no-cafe%CC%81-da-manha%CC%83.jpg"
-                alt=""
-                class="w-100"
-              />
-              <div class="c-recipe">
-                <h3 class="mt-3">Teste</h3>
-                <p>
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Porro distinctio doloremque...
-                </p>
-                <a href="#">Ler Mais</a>
+            <?php foreach($receitas as $receita) : ?>
+              <div class="col-md-4 col-sm-12">
+                <img
+                  src="<?= $receita['url_imagem'] ?>"
+                  alt="Foto de capa da receita"
+                  class="w-100"
+                />
+                <div class="c-recipe">
+                  <h3 class="mt-3"><?= $receita['titulo'] ?></h3>
+                  <p>
+                    <?= substr($receita["conteudo"], 0, 40) . '...' ?>
+                  </p>
+                  <a href="#">Ler Mais</a>
+                </div>
               </div>
-            </div>
-            <div class="col-md-4 col-sm-12">
-              <img
-                src="https://www.selecoes.com.br/wp-content/uploads/2018/06/o-que-comer-no-cafe%CC%81-da-manha%CC%83.jpg"
-                alt=""
-                class="w-100"
-              />
-              <div class="c-recipe">
-                <h3 class="mt-3">Teste</h3>
-                <p>
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Porro distinctio doloremque...
-                </p>
-                <a href="#">Ler Mais</a>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-12">
-              <img
-                src="https://www.selecoes.com.br/wp-content/uploads/2018/06/o-que-comer-no-cafe%CC%81-da-manha%CC%83.jpg"
-                alt=""
-                class="w-100"
-              />
-              <div class="c-recipe">
-                <h3 class="mt-3">Teste</h3>
-                <p>
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Porro distinctio doloremque...
-                </p>
-                <a href="#">Ler Mais</a>
-              </div>
-            </div>
+            <?php endforeach; ?>
           </div>
         </div>
       </div>
