@@ -3,16 +3,6 @@
     try {
         require "conexao.php";
       
-        if (empty($_FILES["imagem"]["name"])) {
-            $url_imagem = 'assets/img/receitas/default.jpg';
-        } else if ($_FILES["imagem"]["error"] === 0) {
-            $nomeArquivo = $_FILES["imagem"]["name"];
-            $nomeTemp = $_FILES["imagem"]["tmp_name"];
-            $url_imagem = "assets/img/receitas/" . $nomeArquivo;
-    
-            move_uploaded_file($nomeTemp, "./" . $url_imagem);
-        }
-        
         $consulta = $conexao->prepare("DELETE FROM receitas WHERE id = :id");
         $deletou = $consulta->execute([
             ':id' => $_POST['id']
@@ -148,8 +138,12 @@
                     <input readonly id="tituloInput" type="text" name="titulo" class="form-control" value="<?= $receita["titulo"] ?>">
                 </div>
                 <div class="form-group">
-                    <label for="descricaoInput">Descriçāo</label>
-                    <textarea readonly name="descricao" id="summernote" cols="30" rows="10" class="form-control"><?= $receita["conteudo"] ?></textarea>
+                  <label for="descricao">Descrição</label>
+                  <textarea name="descricao" id="descricao" class="form-control"><?= $receita['descricao'] ?></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="summernote">Conteúdo</label>
+                    <textarea readonly name="conteudo" id="summernote" cols="30" rows="10" class="form-control"><?= $receita["conteudo"] ?></textarea>
                 </div>
 
                 <input type="hidden" name="id" value="<?= $receita["id"] ?>">

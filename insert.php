@@ -13,9 +13,10 @@
             move_uploaded_file($nomeTemp, "./" . $url_imagem);
         }
         
-        $consulta = $conexao->prepare("INSERT INTO receitas (titulo, conteudo, data, url_imagem) VALUES (:titulo, :conteudo, :data, :urlImagem)");
+        $consulta = $conexao->prepare("INSERT INTO receitas (titulo, descricao, conteudo, data, url_imagem) VALUES (:titulo, :descricao, :conteudo, :data, :urlImagem)");
         $inseriu = $consulta->execute([
             ':titulo' => $_POST["titulo"],
+            ':descricao' => $_POST["descricao"],
             ':conteudo' => $_POST["conteudo"],
             ':urlImagem' => $url_imagem,
             ':data' => date('Y-m-d'),
@@ -142,6 +143,10 @@
                 name="titulo"
                 class="form-control"
               />
+            </div>
+            <div class="form-group">
+              <label for="descricao">Descrição</label>
+              <textarea name="descricao" id="descricao" class="form-control"></textarea>
             </div>
             <div class="form-group">
               <label for="summernote">Conteúdo</label>

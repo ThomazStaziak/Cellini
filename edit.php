@@ -13,9 +13,10 @@
             move_uploaded_file($nomeTemp, "./" . $url_imagem);
         }
         
-        $consulta = $conexao->prepare("UPDATE receitas SET titulo = :titulo, conteudo = :conteudo, data = :data, url_imagem = :urlImagem WHERE id = :id");
+        $consulta = $conexao->prepare("UPDATE receitas SET titulo = :titulo, descricao = :descricao, conteudo = :conteudo, data = :data, url_imagem = :urlImagem WHERE id = :id");
         $atualizou = $consulta->execute([
             ':titulo' => $_POST["titulo"],
+            ':descricao' => $_POST["descricao"],
             ':conteudo' => $_POST["conteudo"],
             ':urlImagem' => $url_imagem,
             ':data' => date('Y-m-d'),
@@ -160,10 +161,13 @@
               />
             </div>
             <div class="form-group">
+              <label for="descricao">Descrição</label>
+              <textarea name="descricao" id="descricao" class="form-control"><?= $receita['descricao'] ?></textarea>
+            </div>
+            <div class="form-group">
               <label for="summernote">Conteúdo</label>
               <textarea id="summernote" name="conteudo"><?= $receita['conteudo'] ?></textarea>
             </div>
-
             <div class="form-group">
               <p>Imagem de capa atual</p>
               <img 
