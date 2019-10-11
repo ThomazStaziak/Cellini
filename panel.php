@@ -1,4 +1,6 @@
 <?php
+  if (!$_POST) header('Location: adm.php');
+
   try {
       require 'conexao.php';
       $consulta = $conexao->query("SELECT * FROM receitas");

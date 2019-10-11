@@ -63,11 +63,16 @@ body {
   background-color: #999999;
 }
 
+.c-product-list img {
+  cursor: pointer;
+}
+
 .c-main-bg h2,
 .c-recipe-container h2,
 .c-contact h1,
 .c-contact h2,
-.c-product-container h2 {
+.c-product-container h2,
+.c-about h1 {
   color: #ee4326;
   font-weight: bold;
 }
@@ -124,10 +129,48 @@ body {
 }
 
 .c-main-product,
-.c-short-product {
+.c-short-product,
+.c-short-product-2,
+.c-short-product-3 {
   border: 1px solid #999999;
 }
 
 .c-product-description ul li {
   list-style-type: none;
+}
+
+.c-color-white,
+.c-color-black,
+.c-color-red,
+.c-color-dark-red {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.c-color-white div,
+.c-color-black div,
+.c-color-red div,
+.c-color-dark-red div {
+  border: 1px solid #999;
+  height: 50px;
+  width: 50px;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+
+.c-color-white div {
+  background-color: #ffffff;
+}
+
+.c-color-red div {
+  background-color: #ee4326;
+}
+
+.c-color-black div {
+  background-color: #000000;
+}
+
+.c-color-dark-red div {
+  background-color: darkred;
 }

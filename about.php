@@ -2,7 +2,7 @@
 
 
     <main>
-      <section class="container">
+      <section class="c-about container">
         <h1 class="text-center mt-4">Quem Somos</h1>
         <div class="row">
           <article class="col-6 p-4">

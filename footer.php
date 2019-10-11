@@ -75,7 +75,7 @@
       crossorigin="anonymous"
     ></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.12/summernote.js"></script>
-
+    <script src="./assets/js/main.js"></script>
     <script>
       $("#summernote").summernote({
         placeholder: "Escreva sua receita aqui",
