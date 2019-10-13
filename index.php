@@ -122,7 +122,7 @@
                   <p>
                     <?= substr($receita["descricao"], 0, 40) . '...' ?>
                   </p>
-                  <a href="#">Ler Mais</a>
+                  <a href="recipe.php?id=<?= $receita['id'] ?>">Ler Mais</a>
                 </div>
               </div>
             <?php endforeach; ?>
