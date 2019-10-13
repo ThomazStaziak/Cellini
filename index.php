@@ -75,7 +75,7 @@
         <h2 class="text-center mb-4">Nossa Linha De Produtos</h2>
         <div class="container">
           <div class="row">
-            <a href="#" class="col-md-4 col-sm-12">
+            <a href="blenders.php" class="col-md-4 col-sm-12">
               <img
                 src="./assets/img/thumbs/thumb-Liq.jpg"
                 alt="Thumb Liquidificador"
@@ -85,7 +85,7 @@
                 Liquidificadores
               </footer>
             </a>
-            <a href="#" class="col-md-4 col-sm-12">
+            <a href="churns.php" class="col-md-4 col-sm-12">
               <img
                 src="./assets/img/thumbs/thumb-bat.jpg"
                 alt="Thumb Batedeiras"
@@ -93,7 +93,7 @@
               />
               <footer class="text-center mt-4 text-dark">Batedeiras</footer>
             </a>
-            <a href="#" class="col-md-4 col-sm-12">
+            <a href="irons.php" class="col-md-4 col-sm-12">
               <img
                 src="./assets/img/thumbs/thumb-ferros.jpg"
                 alt="Thumb Ferro de passar"
@@ -120,7 +120,7 @@
                 <div class="c-recipe">
                   <h3 class="mt-3"><?= $receita['titulo'] ?></h3>
                   <p>
-                    <?= substr($receita["conteudo"], 0, 40) . '...' ?>
+                    <?= substr($receita["descricao"], 0, 40) . '...' ?>
                   </p>
                   <a href="#">Ler Mais</a>
                 </div>

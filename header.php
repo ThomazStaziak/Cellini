@@ -49,7 +49,7 @@
             <ul class="navbar-nav col-12 d-flex justify-content-between">
               <li class="nav-item">
                 <a
-                  class="nav-link c-nav__li c-nav__li--active"
+                  class="nav-link c-nav__li"
                   href="index.php"
                   >Home</a
                 >
@@ -76,13 +76,12 @@
                   aria-labelledby="navbarDropdownMenuLink"
                 >
                   <a class="dropdown-item" href="blenders.php">Liquidificadores</a>
-                  <a class="dropdown-item" href="#">Batedeiras</a>
-                  <a class="dropdown-item" href="#">Ferros de passar</a>
-                  <a class="dropdown-item" href="#">Ventiladores</a>
+                  <a class="dropdown-item" href="churns.php">Batedeiras</a>
+                  <a class="dropdown-item" href="irons.php">Ferros de passar</a>
                 </div>
               </li>
               <li class="nav-item">
-                <a class="nav-link c-nav__li" href="#">Receitas</a>
+                <a class="nav-link c-nav__li" href="recipes.php">Receitas</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link c-nav__li" href="contact.php">Contato</a>
