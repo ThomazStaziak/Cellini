@@ -1,9 +1,8 @@
 <?php
   try {
       require 'conexao.php';
-      $consulta = $conexao->query("SELECT * FROM receitas");
+      $consulta = $conexao->query("SELECT * FROM receitas ORDER BY id DESC LIMIT 3");
       $receitas = $consulta->fetchAll(PDO::FETCH_ASSOC);
-      $receitas = array_reverse(array_slice($receitas, 0, 3));
       $conexao = null;
   } catch (PDOException $erro) {
       echo $erro->getMessage();
