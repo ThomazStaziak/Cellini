@@ -4,7 +4,7 @@
     <h2 class="text-center py-5">Ferro Slim Line</h2>
     <div class="container">
       <div class="row">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
           <div class="row justify-content-center">
             <div
               class="c-product col-12 d-flex justify-content-center align-items-center"
@@ -28,18 +28,18 @@
             </div>
           </div>
         </div>
-        <div class="col-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description">
           <ul class="m-6">
-            <li>- Potência: 1300 Watts</li>
-            <li>- Sistema Anti-Calc</li>
-            <li>- Botão de ajuste de temperatura</li>
-            <li>- Vapor Vertical</li>
-            <li>
+            <li class="text-center text-md-left">- Potência: 1300 Watts</li>
+            <li class="text-center text-md-left">- Sistema Anti-Calc</li>
+            <li class="text-center text-md-left">- Botão de ajuste de temperatura</li>
+            <li class="text-center text-md-left">- Vapor Vertical</li>
+            <li class="text-center text-md-left">
               - Ajuste de vapor
             </li>
-            <li>- Base em teflon</li>
-            <li>- Indicador de nível de água</li>
-            <li>- 1 ano de garantia.</li>
+            <li class="text-center text-md-left">- Base em teflon</li>
+            <li class="text-center text-md-left">- Indicador de nível de água</li>
+            <li class="text-center text-md-left">- 1 ano de garantia.</li>
           </ul>
         </div>
       </div>
@@ -49,7 +49,7 @@
     <h2 class="text-center py-5">Ferro Smart Solution</h2>
     <div class="container">
       <div class="row">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
           <div class="row justify-content-center">
             <div
               class="c-product col-12 d-flex justify-content-center align-items-center"
@@ -73,20 +73,20 @@
             </div>
           </div>
         </div>
-        <div class="col-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description">
           <ul class="m-6">
-            <li>- Potência: 2400 Watts</li>
-            <li>- Sistema Anti-Calc</li>
-            <li>- Sistema Anti-Drip</li>
-            <li>- Desligamento Automático</li>
-            <li>- Botão de ajuste de temperatura</li>
-            <li>- Botão auto-limpeza</li>
-            <li>
+            <li class="text-center text-md-left">- Potência: 2400 Watts</li>
+            <li class="text-center text-md-left">- Sistema Anti-Calc</li>
+            <li class="text-center text-md-left">- Sistema Anti-Drip</li>
+            <li class="text-center text-md-left">- Desligamento Automático</li>
+            <li class="text-center text-md-left">- Botão de ajuste de temperatura</li>
+            <li class="text-center text-md-left">- Botão auto-limpeza</li>
+            <li class="text-center text-md-left">
               - Ajuste de vapor
             </li>
-            <li>- Base em Cerâmica antiaderente</li>
-            <li>- Indicador de nível de água</li>
-            <li>- 1 ano de garantia.</li>
+            <li class="text-center text-md-left">- Base em Cerâmica antiaderente</li>
+            <li class="text-center text-md-left">- Indicador de nível de água</li>
+            <li class="text-center text-md-left">- 1 ano de garantia.</li>
           </ul>
         </div>
       </div>

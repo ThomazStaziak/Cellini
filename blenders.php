@@ -4,7 +4,7 @@
     <h2 class="text-center py-5">Liquidificador - Super Blader</h2>
     <div class="container">
       <div class="row">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
           <div class="row justify-content-center">
             <div
               class="c-product col-12 d-flex justify-content-center align-items-center"
@@ -72,21 +72,21 @@
             </div>
           </div>
         </div>
-        <div class="col-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description">
           <ul class="m-6">
-            <li>- Potência: 1000 Watts</li>
-            <li>- Copo: 2,2 litros de capacidade</li>
-            <li>- Filtro para copo, que coa sementes e bagaços</li>
-            <li>- Copo transparente, muito resistente a quebra</li>
-            <li>- Faca de 7 lâminas com Mega poder de trituração</li>
-            <li>- Botão com 4 velocidades.</li>
-            <li>- Tampa com dosador.</li>
-            <li>- Função auto limpante.</li>
-            <li>
+            <li class="text-center text-md-left">- Potência: 1000 Watts</li>
+            <li class="text-center text-md-left">- Copo: 2,2 litros de capacidade</li>
+            <li class="text-center text-md-left">- Filtro para copo, que coa sementes e bagaços</li>
+            <li class="text-center text-md-left">- Copo transparente, muito resistente a quebra</li>
+            <li class="text-center text-md-left">- Faca de 7 lâminas com Mega poder de trituração</li>
+            <li class="text-center text-md-left">- Botão com 4 velocidades.</li>
+            <li class="text-center text-md-left">- Tampa com dosador.</li>
+            <li class="text-center text-md-left">- Função auto limpante.</li>
+            <li class="text-center text-md-left">
               - Detalhe Porta cabo (guarda fio), que possibilita melhor
               arrumação ao guardar o produto.
             </li>
-            <li>- 1 ano de garantia.</li>
+            <li class="text-center text-md-left">- 1 ano de garantia.</li>
           </ul>
 
           <p>Cores:</p>
@@ -115,7 +115,7 @@
     <h2 class="text-center py-5">Liquidificador - Super Blade 4</h2>
     <div class="container">
       <div class="row">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
           <div class="row justify-content-center">
             <div
               class="c-product col-12 d-flex justify-content-center align-items-center"
@@ -163,20 +163,20 @@
             </div>
           </div>
         </div>
-        <div class="col-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description">
           <ul class="m-6">
-            <li>- Potência: 1000 Watts</li>
-            <li>- Copo: 1,8 litros de capacidade</li>
-            <li>- Copo transparente, muito resistente a quebra</li>
-            <li>- Faca de 6 lâminas com Ultra poder de trituração</li>
-            <li>- Botão com 4 velocidades</li>
-            <li>- Tampa com dosador</li>
-            <li>- Função auto limpante</li>
-            <li>
+            <li class="text-center text-md-left">- Potência: 1000 Watts</li>
+            <li class="text-center text-md-left">- Copo: 1,8 litros de capacidade</li>
+            <li class="text-center text-md-left">- Copo transparente, muito resistente a quebra</li>
+            <li class="text-center text-md-left">- Faca de 6 lâminas com Ultra poder de trituração</li>
+            <li class="text-center text-md-left">- Botão com 4 velocidades</li>
+            <li class="text-center text-md-left">- Tampa com dosador</li>
+            <li class="text-center text-md-left">- Função auto limpante</li>
+            <li class="text-center text-md-left">
               - Detalhe Porta cabo (guarda fio), que possibilita melhor
               arrumação ao guardar o produto
             </li>
-            <li>- 1 ano de garantia</li>
+            <li class="text-center text-md-left">- 1 ano de garantia</li>
           </ul>
 
           <p>Cores:</p>
@@ -201,7 +201,7 @@
     <h2 class="text-center py-5">Liquidificador - Super Blade</h2>
     <div class="container">
       <div class="row">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
           <div class="row justify-content-center">
             <div
               class="c-product col-12 d-flex justify-content-center align-items-center"
@@ -249,19 +249,19 @@
             </div>
           </div>
         </div>
-        <div class="col-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description">
           <ul class="m-6">
-            <li>- Potência: 1000 Watts</li>
-            <li>- Copo: 1,8 litros de capacidade</li>
-            <li>- Faca de 4 lâminas com alto poder de trituração</li>
-            <li>- Botão com 4 velocidades</li>
-            <li>- Função auto limpante</li>
-            <li>- Copo leitoso inquebrável</li>
-            <li>
+            <li class="text-center text-md-left">- Potência: 1000 Watts</li>
+            <li class="text-center text-md-left">- Copo: 1,8 litros de capacidade</li>
+            <li class="text-center text-md-left">- Faca de 4 lâminas com alto poder de trituração</li>
+            <li class="text-center text-md-left">- Botão com 4 velocidades</li>
+            <li class="text-center text-md-left">- Função auto limpante</li>
+            <li class="text-center text-md-left">- Copo leitoso inquebrável</li>
+            <li class="text-center text-md-left">
               - Detalhe Porta cabo (guarda fio), que possibilita melhor
               arrumação ao guardar o produto
             </li>
-            <li>- 1 ano de garantia</li>
+            <li class="text-center text-md-left">- 1 ano de garantia</li>
           </ul>
 
           <p>Cores:</p>

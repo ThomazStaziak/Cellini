@@ -4,7 +4,7 @@
     <h2 class="text-center py-5">Batedeira - Maxi Deluxe</h2>
     <div class="container">
       <div class="row">
-        <div class="col-6">
+        <div class="col-12 col-md-6">
           <div class="row justify-content-center">
             <div
               class="c-product col-12 d-flex justify-content-center align-items-center"
@@ -67,31 +67,31 @@
             </div>
           </div>
         </div>
-        <div class="col-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description">
           <ul class="m-6">
-            <li>- Potência: 350 Watts</li>
-            <li>- Tigela com capacidade para 4,1 litros</li>
-            <li>- Prepara receitas em grande quantidade</li>
-            <li>- Batedores para massa leve em aço cromado</li>
-            <li>
+            <li class="text-center text-md-left">- Potência: 350 Watts</li>
+            <li class="text-center text-md-left">- Tigela com capacidade para 4,1 litros</li>
+            <li class="text-center text-md-left">- Prepara receitas em grande quantidade</li>
+            <li class="text-center text-md-left">- Batedores para massa leve em aço cromado</li>
+            <li class="text-center text-md-left">
               - Misturadores para massa pesada, pães e doces, em aço cromado
             </li>
-            <li>- 4 velocidades mais turbo</li>
-            <li>- Botão ejetor para os batedores, que facilita o manuseio</li>
-            <li>- Botão de liberação, para retirar a batedeira da base</li>
-            <li>
+            <li class="text-center text-md-left">- 4 velocidades mais turbo</li>
+            <li class="text-center text-md-left">- Botão ejetor para os batedores, que facilita o manuseio</li>
+            <li class="text-center text-md-left">- Botão de liberação, para retirar a batedeira da base</li>
+            <li class="text-center text-md-left">
               - Sistema de inclinação com trava de segurança, para facilitar a
               reti- rada da tigela e dos batedores
             </li>
-            <li>- Pode ser utilizada como de forma portátil</li>
-            <li>
+            <li class="text-center text-md-left">- Pode ser utilizada como de forma portátil</li>
+            <li class="text-center text-md-left">
               - Acompanha espátula, 2 batedores de massa leve e 2 batedores de
               massa pesada (Kit confeitaria para pães e pizzas)
             </li>
-            <li>
+            <li class="text-center text-md-left">
               - Batedeira multifunção, pizzas, bolos, pães, doces e cremes, etc.
             </li>
-            <li>- 1 ano de garantia.</li>
+            <li class="text-center text-md-left">- 1 ano de garantia.</li>
           </ul>
 
           <p>Cores:</p>
