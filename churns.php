@@ -10,18 +10,20 @@
               class="c-product col-12 d-flex justify-content-center align-items-center"
             >
               <span
+                id="lArrow4"
                 class="col-1 mx-2 d-flex justify-content-center align-items-center"
                 >&lt;</span
               >
               <div class="col-10 c-main-product">
                 <img
-                  id="mainProduct"
+                  id="mainProduct4"
                   class="w-100"
                   src="./assets/img/products/batedeira-vermelha.png"
                   alt="Batedeira Vermelho"
                 />
               </div>
               <span
+                id="rArrow4"
                 class="col-1 mx-2 d-flex justify-content-center align-items-center"
                 >&gt;</span
               >
@@ -30,37 +32,37 @@
               class="col-10 row d-flex justify-content-start align-items-center c-product-list"
             >
               <img
-                class="col-3 c-short-product"
+                class="col-3 c-short-product-4"
                 src="./assets/img/products/batedeira-vermelha.png"
                 alt="Batedeira Vermelho"
               />
               <img
-                class="col-3 c-short-product my-2"
+                class="col-3 c-short-product-4 my-2"
                 src="./assets/img/products/batedeira-preta.png"
                 alt="Batedeira Preto"
               />
               <img
-                class="col-3 c-short-product"
+                class="col-3 c-short-product-4"
                 src="./assets/img/products/batedeira-branca.png"
                 alt="Batedeira Branco"
               />
               <img
-                class="col-3 c-short-product"
+                class="col-3 c-short-product-4"
                 src="./assets/img/products/batedores-de-massa.png"
                 alt="Batedor de Massa"
               />
               <img
-                class="col-3 c-short-product"
+                class="col-3 c-short-product-4"
                 src="./assets/img/products/espatula-vermelha.png"
                 alt="Espátula vermelha"
               />
               <img
-                class="col-3 c-short-product"
+                class="col-3 c-short-product-4"
                 src="./assets/img/products/espatula-branca.png"
                 alt="Espátula branca"
               />
               <img
-                class="col-3 c-short-product"
+                class="col-3 c-short-product-4"
                 src="./assets/img/products/espatula-preta.png"
                 alt="Espátula preta"
               />

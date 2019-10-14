@@ -10,6 +10,7 @@
               class="c-product col-12 d-flex justify-content-center align-items-center"
             >
               <span
+                id="lArrow1"
                 class="col-1 mx-2 d-flex justify-content-center align-items-center"
                 >&lt;</span
               >
@@ -22,6 +23,7 @@
                 />
               </div>
               <span
+                id="rArrow1"
                 class="col-1 mx-2 d-flex justify-content-center align-items-center"
                 >&gt;</span
               >
@@ -121,6 +123,7 @@
               class="c-product col-12 d-flex justify-content-center align-items-center"
             >
               <span
+                id="lArrow2"
                 class="col-1 mx-2 d-flex justify-content-center align-items-center"
                 >&lt;</span
               >
@@ -133,6 +136,7 @@
                 />
               </div>
               <span
+                id="rArrow2"
                 class="col-1 mx-2 d-flex justify-content-center align-items-center"
                 >&gt;</span
               >
@@ -207,6 +211,7 @@
               class="c-product col-12 d-flex justify-content-center align-items-center"
             >
               <span
+                  id="lArrow3"
                   class="col-1 mx-2 d-flex justify-content-center align-items-center"
                   >&lt;</span
                 >
@@ -219,6 +224,7 @@
                 />
               </div>
               <span
+                  id="rArrow3"
                   class="col-1 mx-2 d-flex justify-content-center align-items-center"
                   >&gt;</span
                 >
