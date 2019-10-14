@@ -12,7 +12,7 @@
       <div class="container-fluid c-main-bg p-5">
         <div class="row">
           <div
-            class="col-6 col-md-3 d-flex flex-column justify-content-center align-items-center"
+            class="col-12 mt-2 col-md-3 d-flex flex-column justify-content-center align-items-center"
           >
             <div class="font-weight-bold">
               <i class="fas fa-map-marker-alt"></i>
@@ -24,7 +24,7 @@
             </p>
           </div>
           <div
-            class="col-6 col-md-3 d-flex flex-column justify-content-center align-items-center"
+            class="col-12 mt-2 col-md-3 d-flex flex-column justify-content-center align-items-center"
           >
             <div class="font-weight-bold">
               <i class="fas fa-phone-alt"></i>
@@ -33,7 +33,7 @@
             <p class="my-2 text-center">0800-000-000</p>
           </div>
           <div
-            class="col-6 col-md-3 d-flex flex-column justify-content-center align-items-center"
+            class="col-12 mt-2 col-md-3 d-flex flex-column justify-content-center align-items-center"
           >
             <div class="font-weight-bold">
               <i class="fas fa-phone-alt"></i>
@@ -42,7 +42,7 @@
             <p class="my-2 text-center">+55 (11) 0000-0000</p>
           </div>
           <div
-            class="col-6 col-md-3 d-flex flex-column justify-content-center align-items-center"
+            class="col-12 mt-2 col-md-3 d-flex flex-column justify-content-center align-items-center"
           >
             <div class="font-weight-bold">
               <i class="fas fa-envelope"></i>

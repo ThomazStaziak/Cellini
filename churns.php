@@ -9,10 +9,10 @@
             <div
               class="c-product col-12 d-flex justify-content-center align-items-center"
             >
-              <!-- <span
+              <span
                 class="col-1 mx-2 d-flex justify-content-center align-items-center"
                 >&lt;</span
-              > -->
+              >
               <div class="col-10 c-main-product">
                 <img
                   id="mainProduct"
@@ -21,10 +21,10 @@
                   alt="Batedeira Vermelho"
                 />
               </div>
-              <!-- <span
+              <span
                 class="col-1 mx-2 d-flex justify-content-center align-items-center"
                 >&gt;</span
-              > -->
+              >
             </div>
             <div
               class="col-10 row d-flex justify-content-start align-items-center c-product-list"

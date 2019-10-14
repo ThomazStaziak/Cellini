@@ -38,16 +38,16 @@
           </div>
           <div class="carousel-item">
             <img
-              src="./assets/img/carousel/Arte-banner-ferro.jpg"
-              class="d-block w-100"
-              alt="Banner Ferro de passar"
+            src="./assets/img/carousel/Arte-banner-bat.jpg"
+            class="d-block w-100"
+            alt="Banner Batedeira"
             />
           </div>
           <div class="carousel-item">
             <img
-              src="./assets/img/carousel/Arte-banner-bat.jpg"
+              src="./assets/img/carousel/Arte-banner-ferro.jpg"
               class="d-block w-100"
-              alt="Banner Batedeira"
+              alt="Banner Ferro de passar"
             />
           </div>
         </div>

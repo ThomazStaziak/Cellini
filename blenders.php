@@ -9,10 +9,10 @@
             <div
               class="c-product col-12 d-flex justify-content-center align-items-center"
             >
-              <!-- <span
+              <span
                 class="col-1 mx-2 d-flex justify-content-center align-items-center"
                 >&lt;</span
-              > -->
+              >
               <div class="col-10 c-main-product">
                 <img
                   id="mainProduct"
@@ -21,10 +21,10 @@
                   alt="Liquidificador Vermelho"
                 />
               </div>
-              <!-- <span
+              <span
                 class="col-1 mx-2 d-flex justify-content-center align-items-center"
                 >&gt;</span
-              > -->
+              >
             </div>
             <div
               class="col-10 row d-flex justify-content-center align-items-center c-product-list"
@@ -120,10 +120,10 @@
             <div
               class="c-product col-12 d-flex justify-content-center align-items-center"
             >
-              <!-- <span
+              <span
                 class="col-1 mx-2 d-flex justify-content-center align-items-center"
                 >&lt;</span
-              > -->
+              >
               <div class="col-10 c-main-product">
                 <img
                   id="mainProduct2"
@@ -132,10 +132,10 @@
                   alt="Liquidificador Vermelho"
                 />
               </div>
-              <!-- <span
+              <span
                 class="col-1 mx-2 d-flex justify-content-center align-items-center"
                 >&gt;</span
-              > -->
+              >
             </div>
             <div
               class="col-10 d-flex justify-content-center align-items-center c-product-list"
@@ -206,10 +206,10 @@
             <div
               class="c-product col-12 d-flex justify-content-center align-items-center"
             >
-              <!-- <span
+              <span
                   class="col-1 mx-2 d-flex justify-content-center align-items-center"
                   >&lt;</span
-                > -->
+                >
               <div class="col-10 c-main-product">
                 <img
                   id="mainProduct3"
@@ -218,10 +218,10 @@
                   alt="Liquidificador Vermelho"
                 />
               </div>
-              <!-- <span
+              <span
                   class="col-1 mx-2 d-flex justify-content-center align-items-center"
                   >&gt;</span
-                > -->
+                >
             </div>
             <div
               class="col-10 d-flex justify-content-center align-items-center c-product-list"
