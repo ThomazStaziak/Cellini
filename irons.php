@@ -30,16 +30,16 @@
         </div>
         <div class="col-12 col-md-6 c-product-description">
           <ul class="m-6">
-            <li class="text-center text-md-left">- Potência: 1300 Watts</li>
-            <li class="text-center text-md-left">- Sistema Anti-Calc</li>
-            <li class="text-center text-md-left">- Botão de ajuste de temperatura</li>
-            <li class="text-center text-md-left">- Vapor Vertical</li>
-            <li class="text-center text-md-left">
+            <li>- Potência: 1300 Watts</li>
+            <li>- Sistema Anti-Calc</li>
+            <li>- Botão de ajuste de temperatura</li>
+            <li>- Vapor Vertical</li>
+            <li>
               - Ajuste de vapor
             </li>
-            <li class="text-center text-md-left">- Base em teflon</li>
-            <li class="text-center text-md-left">- Indicador de nível de água</li>
-            <li class="text-center text-md-left">- 1 ano de garantia.</li>
+            <li>- Base em teflon</li>
+            <li>- Indicador de nível de água</li>
+            <li>- 1 ano de garantia.</li>
           </ul>
         </div>
       </div>
@@ -75,18 +75,18 @@
         </div>
         <div class="col-12 col-md-6 c-product-description">
           <ul class="m-6">
-            <li class="text-center text-md-left">- Potência: 2400 Watts</li>
-            <li class="text-center text-md-left">- Sistema Anti-Calc</li>
-            <li class="text-center text-md-left">- Sistema Anti-Drip</li>
-            <li class="text-center text-md-left">- Desligamento Automático</li>
-            <li class="text-center text-md-left">- Botão de ajuste de temperatura</li>
-            <li class="text-center text-md-left">- Botão auto-limpeza</li>
-            <li class="text-center text-md-left">
+            <li>- Potência: 2400 Watts</li>
+            <li>- Sistema Anti-Calc</li>
+            <li>- Sistema Anti-Drip</li>
+            <li>- Desligamento Automático</li>
+            <li>- Botão de ajuste de temperatura</li>
+            <li>- Botão auto-limpeza</li>
+            <li>
               - Ajuste de vapor
             </li>
-            <li class="text-center text-md-left">- Base em Cerâmica antiaderente</li>
-            <li class="text-center text-md-left">- Indicador de nível de água</li>
-            <li class="text-center text-md-left">- 1 ano de garantia.</li>
+            <li>- Base em Cerâmica antiaderente</li>
+            <li>- Indicador de nível de água</li>
+            <li>- 1 ano de garantia.</li>
           </ul>
         </div>
       </div>

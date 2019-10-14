@@ -5,7 +5,7 @@
       <section class="c-about container">
         <h1 class="text-center mt-4">Quem Somos</h1>
         <div class="row">
-          <article class="col-6 p-4">
+          <article class="col-12 col-md-6 p-4">
             <p class="text-justify">
               A Cellini Indústria, Comércio, Importação e Exportação LTDA, é uma
               empresa de âmbito nacional que oferece uma linha de
@@ -33,7 +33,7 @@
               Visão e Valores:
             </p>
           </article>
-          <article class="c-about-container col-6 p-4">
+          <article class="c-about-container col-12 col-md-6 p-4">
             <h3 class="text-uppercase">Missão</h3>
             Oferecer produtos inovadores e soluções práticas para o cotidiano
             dos nossos consumidores pensando no bem-estar comum, visando a con-
