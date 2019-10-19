@@ -2,9 +2,9 @@
   if ($_GET && $_GET['search']) {
     try {
       require 'conexao.php';
-      $consulta = $conexao->prepare("SELECT * FROM receitas WHERE titulo LIKE %:titulo%");
+      $consulta = $conexao->prepare("SELECT * FROM receitas WHERE titulo LIKE :titulo");
       $consulta->execute([
-        ':titulo' => $_GET['search']
+        ':titulo' => '%' . $_GET['search'] . '%'
       ]);
       $receitaSearch = $consulta->fetch(PDO::FETCH_ASSOC);
       $conexao = null;
@@ -68,7 +68,9 @@
       <div class="col-3 d-none d-md-inline-block">
         <h2 class="mt-4">Receitas recentes</h2>
         <?php foreach(array_slice($receitas, 0, 5) as $receita) : ?>
-          <a href="recipe.php?id=<?= $receita['id'] ?>"><?= $receita['titulo'] ?></a>
+          <p>
+            <a href="recipe.php?id=<?= $receita['id'] ?>"><?= $receita['titulo'] ?></a>
+          </p>
         <?php endforeach; ?>
       </div>
     </div>
