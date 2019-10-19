@@ -116,6 +116,7 @@
                   src="<?= $receita['url_imagem'] ?>"
                   alt="Foto de capa da receita"
                   class="w-100"
+                  height="250"
                 />
                 <div class="c-recipe">
                   <h3 class="mt-3"><?= $receita['titulo'] ?></h3>
