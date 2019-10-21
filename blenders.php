@@ -106,7 +106,7 @@
           </div>
           <div class="c-color-dark-red">
             <div></div>
-            <span>Vinho</span>
+            <span>Branco / Vinho</span>
           </div>
         </div>
       </div>

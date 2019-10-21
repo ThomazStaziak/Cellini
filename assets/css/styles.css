@@ -173,5 +173,5 @@ body {
 }
 
 .c-color-dark-red div {
-  background-color: darkred;
+  background-image: linear-gradient(to bottom right, #fff 50%, darkred 50%);
 }
