@@ -22,7 +22,7 @@
               intuito de crescer e ser reconhecida no mercado nacional e
               internacional. <br /><br />
               Através do Sistema de <strong>Gestão da Qualidade</strong> (SGQ)
-              vem cultivando, manten- do e aprimorando seus processos para
+              vem cultivando, mantendo e aprimorando seus processos para
               garantir a excelência nos produtos e serviços. Detentora de
               certificação de seu SGQ com base na Norma ABNT NBR ISO 9001-2015
               através de
@@ -36,8 +36,7 @@
           <article class="c-about-container col-12 col-md-6 p-4">
             <h3 class="text-uppercase">Missão</h3>
             Oferecer produtos inovadores e soluções práticas para o cotidiano
-            dos nossos consumidores pensando no bem-estar comum, visando a con-
-            strução de parcerias duradouras com nossos clientes e fornecedores.
+            dos nossos consumidores pensando no bem-estar comum, visando a construção de parcerias duradouras com nossos clientes e fornecedores.
             <br /><br />
             <h3 class="text-uppercase">Visão</h3>
             Ser referência em utilidades domésticas, destacando-se pela

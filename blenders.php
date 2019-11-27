@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 <main>
   <section class="c-product-container">
-    <h2 class="text-center py-5">Liquidificador - Super Blader</h2>
+    <h2 class="text-center py-5">Liquidificador - Super Blender</h2>
     <div class="container">
       <div class="row">
         <div class="col-12 col-md-6">
