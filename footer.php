@@ -78,6 +78,7 @@
     <script src="./assets/js/main.js"></script>
     <script src="./assets/js/arrow.js"></script>
     <script src="./assets/js/arrow2.js"></script>
+    <script src="./assets/js/arrow3.js"></script>
     <script>
       $("#summernote").summernote({
         placeholder: "Escreva sua receita aqui",
