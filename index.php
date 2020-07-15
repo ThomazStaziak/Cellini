@@ -27,6 +27,7 @@
           ></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -48,6 +49,13 @@
               src="./assets/img/carousel/Arte-banner-ferro.jpg"
               class="d-block w-100"
               alt="Banner Ferro de passar"
+            />
+          </div>
+          <div class="carousel-item">
+            <img
+              src="./assets/img/carousel/Arte-banner-ventilador.jpg"
+              class="d-block w-100"
+              alt="Banner Ventilador"
             />
           </div>
         </div>
@@ -75,7 +83,7 @@
         <h2 class="text-center mb-4">Nossa Linha De Produtos</h2>
         <div class="container">
           <div class="row">
-            <a href="blenders.php" class="col-md-4 col-sm-12">
+            <a href="blenders.php" class="col-md-3 col-sm-12">
               <img
                 src="./assets/img/thumbs/thumb-Liq.jpg"
                 alt="Thumb Liquidificador"
@@ -85,7 +93,7 @@
                 Liquidificadores
               </footer>
             </a>
-            <a href="churns.php" class="col-md-4 col-sm-12">
+            <a href="churns.php" class="col-md-3 col-sm-12">
               <img
                 src="./assets/img/thumbs/thumb-bat.jpg"
                 alt="Thumb Batedeiras"
@@ -93,14 +101,24 @@
               />
               <footer class="text-center mt-4 text-dark">Batedeiras</footer>
             </a>
-            <a href="irons.php" class="col-md-4 col-sm-12">
+            <a href="irons.php" class="col-md-3 col-sm-12">
               <img
-                src="./assets/img/thumbs/thumb-ferros.jpg"
+                src="./assets/img/thumbs/thumb-ferros-breve.jpg"
                 alt="Thumb Ferro de passar"
                 class="w-100"
               />
               <footer class="text-center mt-4 text-dark">
                 Ferros de passar
+              </footer>
+            </a>
+            <a href="irons.php" class="col-md-3 col-sm-12">
+              <img
+                src="./assets/img/thumbs/thumb-ventilador.jpg"
+                alt="Thumb Ferro de passar"
+                class="w-100"
+              />
+              <footer class="text-center mt-4 text-dark">
+                Ventiladores
               </footer>
             </a>
           </div>
@@ -133,3 +151,11 @@
     </main>
     
   <?php include 'footer.php'; ?>
+
+  <!-- 
+      TODO - Inserir a aba para 1 ventilador – em anexo
+
+      TODO - Inserir cores dos Ferros – seguir as cores no arquivo pdf
+
+      TODO - Inserir os manuais de instruções para download: Liq 3 arquivos e 1 de batedeira
+-->

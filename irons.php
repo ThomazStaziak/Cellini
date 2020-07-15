@@ -21,7 +21,7 @@
         </div>
         <div class="col-12 col-md-6 c-product-description">
           <ul class="m-6">
-            <li>- Potência: 1300 Watts</li>
+            <li>- Potência: 1100 Watts</li>
             <li>- Sistema Anti-Calc</li>
             <li>- Botão de ajuste de temperatura</li>
             <li>- Vapor Vertical</li>
@@ -32,6 +32,12 @@
             <li>- Indicador de nível de água</li>
             <li>- 1 ano de garantia.</li>
           </ul>
+
+          <p>Cores:</p>
+          <div class="c-color-purple">
+            <div></div>
+            <span>Lilás</span>
+          </div>
         </div>
       </div>
     </div>
@@ -57,7 +63,8 @@
         </div>
         <div class="col-12 col-md-6 c-product-description">
           <ul class="m-6">
-            <li>- Potência: 1300 Watts</li>
+            <li>- Potência: 1250 Watts para 127 volts</li>
+            <li>- Potência: 2000 Watts para 220 volts</li>
             <li>- Sistema Anti-Calc</li>
             <li>- Botão de ajuste de temperatura</li>
             <li>- Vapor Vertical</li>
@@ -68,6 +75,12 @@
             <li>- Indicador de nível de água</li>
             <li>- 1 ano de garantia.</li>
           </ul>
+
+          <p>Cores:</p>
+          <div class="c-color-blue">
+            <div></div>
+            <span>Azul</span>
+          </div>
         </div>
       </div>
     </div>

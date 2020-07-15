@@ -71,7 +71,7 @@
         </div>
         <div class="col-12 col-md-6 c-product-description">
           <ul class="m-6">
-            <li>- Potência: 350 Watts</li>
+            <li>- Potência: 300 Watts</li>
             <li>- Tigela com capacidade para 4,1 litros</li>
             <li>- Prepara receitas em grande quantidade</li>
             <li>- Batedores para massa leve em aço cromado</li>
@@ -96,18 +96,28 @@
             <li>- 1 ano de garantia.</li>
           </ul>
 
-          <p>Cores:</p>
-          <div class="c-color-white">
-            <div></div>
-            <span>Branco</span>
-          </div>
-          <div class="c-color-black">
-            <div></div>
-            <span>Preto</span>
-          </div>
-          <div class="c-color-red">
-            <div></div>
-            <span>Vermelho</span>
+          <div class="row">
+            <div class="col-12 col-md-6">
+              <p>Cores:</p>
+              <div class="c-color-white">
+                <div></div>
+                <span>Branco</span>
+              </div>
+              <div class="c-color-black">
+                <div></div>
+                <span>Preto</span>
+              </div>
+              <div class="c-color-red">
+                <div></div>
+                <span>Vermelho</span>
+              </div>
+            </div>
+            <div class="col-12 col-md-6">
+              <p>Manual:</p>
+              <a href="./assets/manuals/batedeira.pdf" download>
+                <img src="./assets/img/pdf-logo.png" width="100 " alt="Logo PDF">
+              </a>
+            </div>
           </div>
         </div>
       </div>

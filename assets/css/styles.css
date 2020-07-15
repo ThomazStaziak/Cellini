@@ -21,12 +21,12 @@ body {
 }
 
 .c-nav__li--active {
-  color: #ee4326;
+  color: #CF0A2C;
 }
 
 .c-nav__li--active:hover,
 .c-nav__li:hover {
-  color: #ee4326;
+  color: #CF0A2C;
 }
 
 .c-nav__dropdown {
@@ -40,7 +40,7 @@ body {
 }
 
 .dropdown-item:hover {
-  border-top: solid 3px #ee4326;
+  border-top: solid 3px #CF0A2C;
 }
 
 .navbar-toggler {
@@ -73,7 +73,7 @@ body {
 .c-contact h2,
 .c-product-container h2,
 .c-about h1 {
-  color: #ee4326;
+  color: #CF0A2C;
   font-weight: bold;
 }
 
@@ -99,8 +99,8 @@ body {
   font-size: 20px;
 }
 
-.c-social-icons span {
-  background-color: #ee4326;
+.c-social-icons a {
+  background-color: #CF0A2C;
   color: #fff;
   width: 35px;
   height: 40px;
@@ -134,7 +134,8 @@ body {
 .c-short-product-3,
 .c-short-product-4,
 .c-short-product-5,
-.c-short-product-6 {
+.c-short-product-6,
+.c-short-product-7 {
   border: 1px solid #999999;
 }
 
@@ -145,6 +146,8 @@ body {
 .c-color-white,
 .c-color-black,
 .c-color-red,
+.c-color-purple,
+.c-color-blue,
 .c-color-dark-red {
   display: flex;
   justify-content: flex-start;
@@ -153,6 +156,8 @@ body {
 
 .c-color-white div,
 .c-color-black div,
+.c-color-purple div,
+.c-color-blue div,
 .c-color-red div,
 .c-color-dark-red div {
   border: 1px solid #999;
@@ -167,11 +172,19 @@ body {
 }
 
 .c-color-red div {
-  background-color: #ee4326;
+  background-color: #CF0A2C;
 }
 
 .c-color-black div {
   background-color: #000000;
+}
+
+.c-color-purple div {
+  background-color: #8264a9;
+}
+
+.c-color-blue div {
+  background-color: #407cca;
 }
 
 .c-color-dark-red div {

@@ -30,22 +30,12 @@
   <body class="d-flex flex-column h-100">
     <header>
       <nav class="c-nav navbar navbar-expand-lg">
-        <div class="container d-flex justify-content-between">
-          <a class="navbar-brand" href="index.php">
-            <img src="./assets/img/logo.png" alt="Logo Cellini" height="150" />
+        <div class="row w-100">
+          <a class="navbar-brand col-6 mr-0" href="index.php">
+            <img src="./assets/img/logo.png" alt="Logo Cellini" width="250" />
           </a>
-          <button
-            class="navbar-toggler border-0"
-            type="button"
-            data-toggle="collapse"
-            data-target="#navbarNavDropdown"
-            aria-controls="navbarNavDropdown"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span>&#9776;</span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          
+          <div class="collapse navbar-collapse col-6" id="navbarNavDropdown">
             <ul class="navbar-nav col-12 d-flex justify-content-between">
               <li class="nav-item">
                 <a
@@ -78,6 +68,7 @@
                   <a class="dropdown-item" href="blenders.php">Liquidificadores</a>
                   <a class="dropdown-item" href="churns.php">Batedeiras</a>
                   <a class="dropdown-item" href="irons.php">Ferros de passar</a>
+                  <a class="dropdown-item" href="fans.php">Ventiladores</a>
                 </div>
               </li>
               <li class="nav-item">

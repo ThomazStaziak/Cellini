@@ -1,18 +1,36 @@
 <div class="c-social-icons container-fluid p-5 text-center">
       <p>Curta nossas redes sociais</p>
-      <span class="d-inline-block mr-2">
+      <a 
+        href="https://www.facebook.com/Cellini-Home-2204082282961110" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="d-inline-block"
+      >
         <i class="fab fa-facebook-f"></i>
-      </span>
-      <span class="d-inline-block">
+      </a>
+      <a 
+        href="https://www.instagram.com/cellinihome/?hl=pt-br" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="d-inline-block mx-2"
+      >
         <i class="fab fa-instagram"></i>
-      </span>
+      </a>
+      <a 
+        href="https://www.youtube.com/channel/UCDX4bZH6B3CJbvTWVnKGQvA/?guided_help_flow=5" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        class="d-inline-block"
+      >
+        <i class="fab fa-youtube"></i>
+      </a>
     </div>
 
     <footer class="c-secondary-bg footer mt-auto">
       <div class="container-fluid c-main-bg p-5">
         <div class="row">
           <div
-            class="col-12 mt-2 col-md-3 d-flex flex-column justify-content-center align-items-center"
+            class="col-12 mt-2 col-md-4 d-flex flex-column justify-content-center align-items-center"
           >
             <div class="font-weight-bold">
               <i class="fas fa-map-marker-alt"></i>
@@ -24,31 +42,22 @@
             </p>
           </div>
           <div
-            class="col-12 mt-2 col-md-3 d-flex flex-column justify-content-center align-items-center"
+            class="col-12 mt-2 col-md-4 d-flex flex-column justify-content-center align-items-center"
           >
             <div class="font-weight-bold">
               <i class="fas fa-phone-alt"></i>
               <span>SAC</span>
             </div>
-            <p class="my-2 text-center">0800-000-000</p>
+            <a href="tel:0800 591 1355" class="my-2 text-center text-dark">0800 591 1355</a>
           </div>
           <div
-            class="col-12 mt-2 col-md-3 d-flex flex-column justify-content-center align-items-center"
-          >
-            <div class="font-weight-bold">
-              <i class="fas fa-phone-alt"></i>
-              <span>Telefone</span>
-            </div>
-            <p class="my-2 text-center">+55 (11) 0000-0000</p>
-          </div>
-          <div
-            class="col-12 mt-2 col-md-3 d-flex flex-column justify-content-center align-items-center"
+            class="col-12 mt-2 col-md-4 d-flex flex-column justify-content-center align-items-center"
           >
             <div class="font-weight-bold">
               <i class="fas fa-envelope"></i>
               <span>Email</span>
             </div>
-            <p class="my-2 text-center">contato@cellinihome.com.br</p>
+            <a href="mailto:contato@cellinihome.com.br" class="my-2 text-center text-dark">contato@cellinihome.com.br</a>
           </div>
         </div>
       </div>
@@ -79,6 +88,7 @@
     <script src="./assets/js/arrow.js"></script>
     <script src="./assets/js/arrow2.js"></script>
     <script src="./assets/js/arrow3.js"></script>
+    <script src="./assets/js/arrow4.js"></script>
     <script>
       $("#summernote").summernote({
         placeholder: "Escreva sua receita aqui",

@@ -91,23 +91,30 @@
             <li>- 1 ano de garantia.</li>
           </ul>
 
-          <p>Cores:</p>
-          <div class="c-color-white">
-            <div></div>
-            <span>Branco</span>
+          <div class="row">
+            <div class="col-12 col-md-6">
+              <p>Cores:</p>
+              <div class="c-color-white">
+                <div></div>
+                <span>Branco</span>
+              </div>
+              <div class="c-color-black">
+                <div></div>
+                <span>Preto</span>
+              </div>
+              <div class="c-color-dark-red">
+                <div></div>
+                <span>Branco / Vinho</span>
+              </div>
+            </div>
+            <div class="col-12 col-md-6">
+              <p>Manual:</p>
+              <a href="./assets/manuals/super-blender.pdf" download>
+                <img src="./assets/img/pdf-logo.png" width="100 " alt="Logo PDF">
+              </a>
+            </div>
           </div>
-          <div class="c-color-black">
-            <div></div>
-            <span>Preto</span>
-          </div>
-          <div class="c-color-red">
-            <div></div>
-            <span>Vermelho</span>
-          </div>
-          <div class="c-color-dark-red">
-            <div></div>
-            <span>Branco / Vinho</span>
-          </div>
+          
         </div>
       </div>
     </div>
@@ -183,18 +190,28 @@
             <li>- 1 ano de garantia</li>
           </ul>
 
-          <p>Cores:</p>
-          <div class="c-color-white">
-            <div></div>
-            <span>Branco</span>
-          </div>
-          <div class="c-color-black">
-            <div></div>
-            <span>Preto</span>
-          </div>
-          <div class="c-color-red">
-            <div></div>
-            <span>Vermelho</span>
+          <div class="row">
+            <div class="col-12 col-md-6">
+              <p>Cores:</p>
+              <div class="c-color-white">
+                <div></div>
+                <span>Branco</span>
+              </div>
+              <div class="c-color-black">
+                <div></div>
+                <span>Preto</span>
+              </div>
+              <div class="c-color-red">
+                <div></div>
+                <span>Vermelho</span>
+              </div>
+            </div>
+            <div class="col-12 col-md-6">
+              <p>Manual:</p>
+              <a href="./assets/manuals/super-blade-4.pdf" download>
+                <img src="./assets/img/pdf-logo.png" width="100 " alt="Logo PDF">
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -269,19 +286,28 @@
             </li>
             <li>- 1 ano de garantia</li>
           </ul>
-
-          <p>Cores:</p>
-          <div class="c-color-white">
-            <div></div>
-            <span>Branco</span>
-          </div>
-          <div class="c-color-black">
-            <div></div>
-            <span>Preto</span>
-          </div>
-          <div class="c-color-red">
-            <div></div>
-            <span>Vermelho</span>
+          <div class="row">
+            <div class="col-12 col-md-6">
+              <p>Cores:</p>
+              <div class="c-color-white">
+                <div></div>
+                <span>Branco</span>
+              </div>
+              <div class="c-color-black">
+                <div></div>
+                <span>Preto</span>
+              </div>
+              <div class="c-color-red">
+                <div></div>
+                <span>Vermelho</span>
+              </div>
+            </div>
+            <div class="col-12 col-md-6">
+              <p>Manual:</p>
+              <a href="./assets/manuals/super-blade.pdf" download>
+                <img src="./assets/img/pdf-logo.png" width="100 " alt="Logo PDF">
+              </a>
+            </div>
           </div>
         </div>
       </div>
