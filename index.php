@@ -111,10 +111,10 @@
                 Ferros de passar
               </footer>
             </a>
-            <a href="irons.php" class="col-md-3 col-sm-12">
+            <a href="fans.php" class="col-md-3 col-sm-12">
               <img
                 src="./assets/img/thumbs/thumb-ventilador.jpg"
-                alt="Thumb Ferro de passar"
+                alt="Thumb Ventiladores"
                 class="w-100"
               />
               <footer class="text-center mt-4 text-dark">

@@ -102,6 +102,10 @@
                 <div></div>
                 <span>Preto</span>
               </div>
+              <div class="c-color-red">
+                <div></div>
+                <span>Vermelho</span>
+              </div>
               <div class="c-color-dark-red">
                 <div></div>
                 <span>Branco / Vinho</span>
