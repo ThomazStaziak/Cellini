@@ -21,7 +21,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description c-default-text">
           <ul class="m-6">
             <li>- 30 cm de diâmetro</li>
             <li>- 3 velocidades</li>

@@ -69,7 +69,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description c-default-text">
           <ul class="m-6">
             <li>- Potência: 300 Watts</li>
             <li>- Tigela com capacidade para 4,1 litros</li>
@@ -113,7 +113,7 @@
               </div>
             </div>
             <div class="col-12 col-md-6">
-              <p>Manual:</p>
+              <p>Baixar manual de instruções:</p>
               <a href="./assets/manuals/batedeira.pdf" download>
                 <img src="./assets/img/pdf-logo.png" width="100 " alt="Logo PDF">
               </a>

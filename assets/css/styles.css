@@ -16,7 +16,7 @@ body {
 }
 
 .c-nav__li {
-  color: #000;
+  color: #555;
   font-size: 1.1em;
 }
 
@@ -84,7 +84,7 @@ body {
 }
 
 .c-recipe a {
-  color: #000;
+  color: #555;
   font-size: 14px;
   text-transform: uppercase;
 }
@@ -124,7 +124,7 @@ body {
 .c-product span {
   font-weight: 300;
   font-size: 40px;
-  color: #999;
+  color: #555;
   cursor: pointer;
 }
 
@@ -189,4 +189,8 @@ body {
 
 .c-color-dark-red div {
   background-image: linear-gradient(to bottom right, #fff 50%, darkred 50%);
+}
+
+.c-default-text {
+  color: #555;
 }

@@ -19,7 +19,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description c-default-text">
           <ul class="m-6">
             <li>- Potência: 1100 Watts</li>
             <li>- Sistema Anti-Calc</li>
@@ -61,7 +61,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description c-default-text">
           <ul class="m-6">
             <li>- Potência: 1250 Watts para 127 volts</li>
             <li>- Potência: 2000 Watts para 220 volts</li>

@@ -74,7 +74,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description c-default-text">
           <ul class="m-6">
             <li>- Potência: 1000 Watts</li>
             <li>- Copo: 2,2 litros de capacidade</li>
@@ -112,7 +112,7 @@
               </div>
             </div>
             <div class="col-12 col-md-6">
-              <p>Manual:</p>
+              <p>Baixar manual de instruções:</p>
               <a href="./assets/manuals/super-blender.pdf" download>
                 <img src="./assets/img/pdf-logo.png" width="100 " alt="Logo PDF">
               </a>
@@ -178,7 +178,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description c-default-text">
           <ul class="m-6">
             <li>- Potência: 1000 Watts</li>
             <li>- Copo: 1,8 litros de capacidade</li>
@@ -211,7 +211,7 @@
               </div>
             </div>
             <div class="col-12 col-md-6">
-              <p>Manual:</p>
+              <p>Baixar manual de instruções:</p>
               <a href="./assets/manuals/super-blade-4.pdf" download>
                 <img src="./assets/img/pdf-logo.png" width="100 " alt="Logo PDF">
               </a>
@@ -276,7 +276,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 c-product-description">
+        <div class="col-12 col-md-6 c-product-description c-default-text">
           <ul class="m-6">
             <li>- Potência: 1000 Watts</li>
             <li>- Copo: 1,8 litros de capacidade</li>
@@ -307,7 +307,7 @@
               </div>
             </div>
             <div class="col-12 col-md-6">
-              <p>Manual:</p>
+              <p>Baixar manual de instruções:</p>
               <a href="./assets/manuals/super-blade.pdf" download>
                 <img src="./assets/img/pdf-logo.png" width="100 " alt="Logo PDF">
               </a>

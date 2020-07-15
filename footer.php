@@ -1,5 +1,5 @@
 <div class="c-social-icons container-fluid p-5 text-center">
-      <p>Curta nossas redes sociais</p>
+      <p class="c-default-text">Curta nossas redes sociais</p>
       <a 
         href="https://www.facebook.com/Cellini-Home-2204082282961110" 
         target="_blank" 
